@@ -11,4 +11,3 @@ html2text==2020.1.16
 fastapi==0.104.1
 uvicorn==0.24.0.post1
 python-multipart==0.0.6
-playwright==1.40.0
